@@ -1,0 +1,92 @@
+
+body{
+    background:url(relojFondo.jpg) #000 ;
+    background-size: cover;
+    color:#fff;
+    font-size: 16px;
+}
+
+
+
+.widget {
+    margin: 40px;
+    margin-left: 800px;
+    }
+
+.widget p {
+    display: inline-block;
+    line-height: px;
+}
+
+.fecha {
+    font-family: Oswald;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 5px;
+    background: rgba(0, 0, 0, .5);
+    padding: 20px;
+    width: 100%;
+}
+
+.reloj {
+    font-family: Oswald, Arial;
+    text-align: center;
+    font-size: 4em;
+    margin-bottom: 5px;
+    background: rgba(0, 0, 0, .5);
+    padding: 20px;
+    width: 100%;
+}
+
+.reloj .cajaDeSegundos {
+    display: inline-block;
+   
+}
+
+.reloj .segundos,
+.reloj .ampm {
+    font-size: 2rem;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
